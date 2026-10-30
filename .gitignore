@@ -1,2 +1,3 @@
 output/
-Makefile.paths.vscode/
+Makefile.paths
+.vscode/
